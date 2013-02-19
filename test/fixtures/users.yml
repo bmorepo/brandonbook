@@ -3,5 +3,9 @@ brandon:
   last_name: "Moberg"
   email: "brandonmoberg218@gmail.com"
   profile_name: "brandonmoberg"
-  password: "password"
-  password_confirmation: "password"
+  
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
